@@ -1,7 +1,8 @@
 # 1. Purpose
 Enhance webpage usability , especial for local application/window command line.
 
-#  2. Note : this chrome need the support of workhub
+#  2. dependency  
+   this chrome extension needs the support of workhub.  
    https://github.com/shenxiaolong-code/DailyWorkHub
 
 #  3. how to install this extension
