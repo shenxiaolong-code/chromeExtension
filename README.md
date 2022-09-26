@@ -5,8 +5,8 @@ Enhance webpage usability , especial for local application/window command line.
    https://github.com/shenxiaolong-code/DailyWorkHub
 
 #  3. how to install this extension
-3.1. Chrome right-top conner -> ... -> setting -> extension
-3.2. Developer mode : on
+3.1. Chrome right-top conner -> ... -> setting -> extension  
+3.2. Developer mode : on  
 3.3. load unpacked -> select this downloaded "chromeExtension" folder.
 
 #  4. test
